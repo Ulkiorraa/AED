@@ -1,0 +1,11 @@
+46,Zilda
+12,Ana
+34,João
+54,Pedro
+60,Larissa
+10,Adão
+25,Lucas
+22,Athos
+15,Karla
+32,Abmael
+78,Tiago
